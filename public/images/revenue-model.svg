@@ -1,0 +1,48 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F9FAFB"/>
+  
+  <!-- Title -->
+  <text x="150" y="40" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Revenue Streams</text>
+  
+  <!-- Freemium Model -->
+  <rect x="50" y="70" width="120" height="80" rx="5" fill="#D1FAE5" stroke="#047857" stroke-width="2"/>
+  <text x="70" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">Freemium</text>
+  <text x="65" y="120" font-family="Arial, sans-serif" font-size="10" fill="#047857">Basic: Free</text>
+  <text x="65" y="140" font-family="Arial, sans-serif" font-size="10" fill="#047857">Premium: ₹299/mo</text>
+  
+  <!-- B2B Partnerships -->
+  <rect x="230" y="70" width="120" height="80" rx="5" fill="#DBEAFE" stroke="#1E40AF" stroke-width="2"/>
+  <text x="250" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E40AF">B2B Partners</text>
+  <text x="250" y="120" font-family="Arial, sans-serif" font-size="10" fill="#1E40AF">Seed Companies</text>
+  <text x="250" y="140" font-family="Arial, sans-serif" font-size="10" fill="#1E40AF">Fertilizer Brands</text>
+  
+  <!-- Commission -->
+  <rect x="50" y="180" width="120" height="80" rx="5" fill="#FEF3C7" stroke="#B45309" stroke-width="2"/>
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#B45309">Commissions</text>
+  <text x="65" y="230" font-family="Arial, sans-serif" font-size="10" fill="#B45309">Soil Testing Labs</text>
+  <text x="65" y="250" font-family="Arial, sans-serif" font-size="10" fill="#B45309">IoT Equipment</text>
+  
+  <!-- Marketplace -->
+  <rect x="230" y="180" width="120" height="80" rx="5" fill="#E0E7FF" stroke="#4338CA" stroke-width="2"/>
+  <text x="250" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338CA">Marketplace</text>
+  <text x="240" y="230" font-family="Arial, sans-serif" font-size="10" fill="#4338CA">Farm Supplies Sales</text>
+  <text x="240" y="250" font-family="Arial, sans-serif" font-size="10" fill="#4338CA">Equipment Rentals</text>
+  
+  <!-- Flow Arrows -->
+  <path d="M110 155L110 175" stroke="#6B7280" stroke-width="2" stroke-dasharray="2 2"/>
+  <path d="M105 170L110 180L115 170" fill="none" stroke="#6B7280" stroke-width="2"/>
+  
+  <path d="M290 155L290 175" stroke="#6B7280" stroke-width="2" stroke-dasharray="2 2"/>
+  <path d="M285 170L290 180L295 170" fill="none" stroke="#6B7280" stroke-width="2"/>
+  
+  <path d="M175 110H225" stroke="#6B7280" stroke-width="2" stroke-dasharray="2 2"/>
+  <path d="M220 105L230 110L220 115" fill="none" stroke="#6B7280" stroke-width="2"/>
+  
+  <path d="M175 220H225" stroke="#6B7280" stroke-width="2" stroke-dasharray="2 2"/>
+  <path d="M220 215L230 220L220 225" fill="none" stroke="#6B7280" stroke-width="2"/>
+  
+  <!-- Money Icons -->
+  <circle cx="200" cy="150" r="15" fill="#4D7C0F"/>
+  <text x="195" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">₹</text>
+</svg> 

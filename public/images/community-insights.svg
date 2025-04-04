@@ -1,0 +1,59 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F3F4F6"/>
+  
+  <!-- People Silhouettes -->
+  <circle cx="80" cy="80" r="20" fill="#4D7C0F"/>
+  <path d="M80 100V150" stroke="#4D7C0F" stroke-width="5"/>
+  <path d="M60 120L100 120" stroke="#4D7C0F" stroke-width="5"/>
+  <path d="M70 150L80 180" stroke="#4D7C0F" stroke-width="5"/>
+  <path d="M90 150L80 180" stroke="#4D7C0F" stroke-width="5"/>
+  
+  <circle cx="150" cy="80" r="20" fill="#65A30D"/>
+  <path d="M150 100V150" stroke="#65A30D" stroke-width="5"/>
+  <path d="M130 120L170 120" stroke="#65A30D" stroke-width="5"/>
+  <path d="M140 150L150 180" stroke="#65A30D" stroke-width="5"/>
+  <path d="M160 150L150 180" stroke="#65A30D" stroke-width="5"/>
+  
+  <circle cx="220" cy="80" r="20" fill="#84CC16"/>
+  <path d="M220 100V150" stroke="#84CC16" stroke-width="5"/>
+  <path d="M200 120L240 120" stroke="#84CC16" stroke-width="5"/>
+  <path d="M210 150L220 180" stroke="#84CC16" stroke-width="5"/>
+  <path d="M230 150L220 180" stroke="#84CC16" stroke-width="5"/>
+  
+  <!-- Speech Bubbles -->
+  <path d="M100 60L120 40H180L200 60V90H100V60Z" fill="white" stroke="#6B7280" stroke-width="2"/>
+  <circle cx="130" cy="75" r="5" fill="#6B7280"/>
+  <circle cx="150" cy="75" r="5" fill="#6B7280"/>
+  <circle cx="170" cy="75" r="5" fill="#6B7280"/>
+  
+  <path d="M240 60L220 40H260L280 60V90H240V60Z" fill="white" stroke="#6B7280" stroke-width="2"/>
+  <path d="M250 70H270" stroke="#6B7280" stroke-width="2"/>
+  <path d="M250 80H270" stroke="#6B7280" stroke-width="2"/>
+  
+  <!-- Knowledge Sharing -->
+  <rect x="290" y="40" width="80" height="120" rx="10" fill="white" stroke="#6B7280" stroke-width="2"/>
+  <path d="M300 60H360" stroke="#6B7280" stroke-width="2"/>
+  <path d="M300 80H340" stroke="#6B7280" stroke-width="2"/>
+  <path d="M300 100H350" stroke="#6B7280" stroke-width="2"/>
+  <path d="M300 120H330" stroke="#6B7280" stroke-width="2"/>
+  <path d="M300 140H345" stroke="#6B7280" stroke-width="2"/>
+  
+  <!-- Connection Lines -->
+  <path d="M100 90C130 100 150 110 240 90" stroke="#6366F1" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M280 70C290 70 290 60 300 60" stroke="#6366F1" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Community Map -->
+  <rect x="50" y="200" width="300" height="80" rx="5" fill="white" stroke="#6B7280" stroke-width="2"/>
+  <circle cx="100" cy="230" r="10" fill="#4D7C0F"/>
+  <circle cx="170" cy="250" r="10" fill="#65A30D"/>
+  <circle cx="240" cy="220" r="10" fill="#84CC16"/>
+  <circle cx="280" cy="240" r="10" fill="#A3E635"/>
+  
+  <!-- Connection Lines on Map -->
+  <path d="M100 230L170 250" stroke="#6366F1" stroke-width="2"/>
+  <path d="M170 250L240 220" stroke="#6366F1" stroke-width="2"/>
+  <path d="M240 220L280 240" stroke="#6366F1" stroke-width="2"/>
+  <path d="M100 230L240 220" stroke="#6366F1" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M100 230L280 240" stroke="#6366F1" stroke-width="2" stroke-dasharray="5 5"/>
+</svg> 

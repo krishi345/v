@@ -1,0 +1,56 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="400" height="100" fill="#DBEAFE"/>
+  
+  <!-- Soil Layers -->
+  <rect y="100" width="400" height="50" fill="#92400E"/>
+  <rect y="150" width="400" height="50" fill="#78350F"/>
+  <rect y="200" width="400" height="50" fill="#7C2D12"/>
+  <rect y="250" width="400" height="50" fill="#65180D"/>
+  
+  <!-- Soil Sensor -->
+  <rect x="150" y="80" width="20" height="200" fill="#6B7280"/>
+  <circle cx="160" cy="120" r="8" fill="#EF4444"/>
+  <circle cx="160" cy="170" r="8" fill="#3B82F6"/>
+  <circle cx="160" cy="220" r="8" fill="#84CC16"/>
+  
+  <!-- Plants -->
+  <path d="M60 100C60 80 70 70 80 70C90 70 100 80 100 100" stroke="#3F6212" stroke-width="4"/>
+  <path d="M80 70V100" stroke="#3F6212" stroke-width="4"/>
+  
+  <path d="M250 100C250 80 260 70 270 70C280 70 290 80 290 100" stroke="#3F6212" stroke-width="4"/>
+  <path d="M270 70V100" stroke="#3F6212" stroke-width="4"/>
+  
+  <!-- Soil Nutrients -->
+  <circle cx="100" cy="170" r="5" fill="#84CC16"/>
+  <circle cx="120" cy="190" r="5" fill="#84CC16"/>
+  <circle cx="90" cy="210" r="5" fill="#84CC16"/>
+  <circle cx="110" cy="230" r="5" fill="#84CC16"/>
+  
+  <circle cx="240" cy="170" r="5" fill="#3B82F6"/>
+  <circle cx="220" cy="190" r="5" fill="#3B82F6"/>
+  <circle cx="250" cy="210" r="5" fill="#3B82F6"/>
+  <circle cx="230" cy="230" r="5" fill="#3B82F6"/>
+  
+  <!-- Worms -->
+  <path d="M190 180C200 175 210 185 220 180" stroke="#F97316" stroke-width="3"/>
+  <path d="M210 220C220 215 230 225 240 220" stroke="#F97316" stroke-width="3"/>
+  <path d="M270 200C280 195 290 205 300 200" stroke="#F97316" stroke-width="3"/>
+  
+  <!-- Smartphone with Soil Data -->
+  <rect x="320" y="50" width="60" height="100" rx="5" fill="#1E40AF"/>
+  <rect x="325" y="60" width="50" height="80" rx="2" fill="#DBEAFE"/>
+  
+  <!-- Data on Screen -->
+  <line x1="335" y1="70" x2="365" y2="70" stroke="#6B7280" stroke-width="1"/>
+  <line x1="335" y1="80" x2="365" y2="80" stroke="#6B7280" stroke-width="1"/>
+  <line x1="335" y1="90" x2="365" y2="90" stroke="#6B7280" stroke-width="1"/>
+  
+  <!-- Soil Health Chart -->
+  <rect x="335" y="100" width="5" height="30" fill="#84CC16"/>
+  <rect x="345" y="110" width="5" height="20" fill="#3B82F6"/>
+  <rect x="355" y="105" width="5" height="25" fill="#F97316"/>
+  
+  <!-- Data Connection -->
+  <path d="M170 120C220 100 270 80 320 90" stroke="#6366F1" stroke-width="2" stroke-dasharray="5 5"/>
+</svg> 

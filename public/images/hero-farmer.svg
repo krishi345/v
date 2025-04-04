@@ -1,0 +1,37 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F9FAFB"/>
+  
+  <!-- Sun -->
+  <circle cx="350" cy="50" r="30" fill="#FBBF24"/>
+  
+  <!-- Field -->
+  <rect y="200" width="400" height="100" fill="#84CC16"/>
+  
+  <!-- Crops -->
+  <path d="M50 200C50 180 60 170 70 170C80 170 90 180 90 200" stroke="#3F6212" stroke-width="4"/>
+  <path d="M70 170V200" stroke="#3F6212" stroke-width="4"/>
+  
+  <path d="M110 200C110 180 120 170 130 170C140 170 150 180 150 200" stroke="#3F6212" stroke-width="4"/>
+  <path d="M130 170V200" stroke="#3F6212" stroke-width="4"/>
+  
+  <path d="M170 200C170 180 180 170 190 170C200 170 210 180 210 200" stroke="#3F6212" stroke-width="4"/>
+  <path d="M190 170V200" stroke="#3F6212" stroke-width="4"/>
+  
+  <!-- Farmer -->
+  <circle cx="300" cy="130" r="20" fill="#F59E0B"/>
+  <rect x="290" y="150" width="20" height="50" fill="#1E40AF"/>
+  <rect x="280" y="160" width="40" height="10" fill="#1E40AF"/>
+  <rect x="290" y="200" width="8" height="30" fill="#78350F"/>
+  <rect x="302" y="200" width="8" height="30" fill="#78350F"/>
+  
+  <!-- Farmer Tool -->
+  <line x1="330" y1="150" x2="350" y2="200" stroke="#78350F" stroke-width="4"/>
+  
+  <!-- Clouds -->
+  <ellipse cx="80" cy="50" rx="30" ry="20" fill="white"/>
+  <ellipse cx="120" cy="60" rx="40" ry="25" fill="white"/>
+  
+  <ellipse cx="200" cy="40" rx="35" ry="20" fill="white"/>
+  <ellipse cx="240" cy="50" rx="30" ry="20" fill="white"/>
+</svg> 
